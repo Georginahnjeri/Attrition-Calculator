@@ -1,0 +1,12 @@
+gender,SeniorCitizen,Partner,Dependents,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,Tenure_group,MonthlyCharges,TotalCharges,Prediction Time,Model Used
+Male,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.0,0.0,0.0,2024-06-18,Gradient_boost
+Male,1,0,0,0,0,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,0,Electronic check,0.0,0.0,2024-06-20,Logistic_regression_model
+Male,1,0,0,4,0,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,0,Electronic check,0.0,0.0,2024-06-20,Logistic_regression_model
+Male,1,0,0,4,0,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,0,Electronic check,0.0,0.0,2024-06-20,Logistic_regression_model
+Male,1,0,0,4,0,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,0,Electronic check,0.0,0.0,2024-06-20,Logistic_regression_model
+Male,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.0,0.0,0.0,2024-06-20,Gradient_boost
+Male,1,0,1,0,0,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,1,Electronic check,0.0,0.0,2024-06-20,Logistic_regression
+Male,1,0,0,0,0,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,1,Electronic check,0.0,0.0,2024-06-20,Logistic_regression
+Male,0,1,0,0,0,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,1,Electronic check,0.0,0.0,2024-06-20,Logistic_regression
+Male,1,0,0,0.0,0,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,1,Electronic check,0.0,0.0,0-12,2024-06-20,Logistic_regression
+Female,0,0,0,0.0,0,No,DSL,Yes,No,No internet service,No,Yes,No,Month-to-month,0,Electronic check,0.0,0.0,0-12,2024-06-20,Logistic_regression
