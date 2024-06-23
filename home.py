@@ -12,7 +12,7 @@ This app helps you predict whether a customer is likely to churn (leave) or not 
          
 
 
-         ### Key features
+         KEY FEATURES
          Predict - Allows prediction in real time
          Data -  Allows viewing of data in a database through a secure conection
          Dashboard - Contains visualizations of the data
